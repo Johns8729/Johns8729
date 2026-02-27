@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm John Sebastian</h1>
 
 <p align="center">
-💻 Software Developer | 🐍 Python Coder | ☕ Coffee Lover
+💻 Software Developer | 🐍 Python Coder 
 </p>
 
 ---
