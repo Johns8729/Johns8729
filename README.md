@@ -1,17 +1,40 @@
-<h1 align="center">👋 ¡Hola! Soy John sebastian  / Hi there! I'm John sebastian</h1>
-<h3 align="center">🚀 Desarrollador de sofware| Software Developer</h3>
+<h1 align="center">👋 Hi, I'm John Sebastian</h1>
+
+<p align="center">
+💻 Software Developer | 🐍 Python Coder | ☕ Coffee Lover
+</p>
 
 ---
 
-## 🧑‍💻 Sobre mí / About Me
+## 👨‍💻 About Me
 
-Soy <b>Soy desarrollador de sofware / coder</b> con más de <b>4 años de experiencia</b> en desarrollo fullstack y transformación digital.  
-Me apasiona la <b>automatización, la innovación tecnológica</b> y construir soluciones <b>escalables y de alto rendimiento</b>.  
-<i>"El código debe ser tan elegante como funcional."</i>  
+I am a software developer passionate about technology and programming.  
+Currently, I work in a coffee shop while continuing to grow professionally as a developer.
 
-I'm a <b>Systems Engineer</b> with over <b>4 years of experience</b> in full stack development and digital transformation.  
-I'm passionate about <b>automation, technological innovation</b>, and building <b>scalable, high-performance solutions</b>.  
-<i>"Code should be as elegant as it is functional."</i>
+I enjoy building practical solutions and learning something new every day in the world of software development.
+
+---
+
+## 🚀 What I Do
+
+- 🐍 Develop projects using *Python*
+- 🔧 Practice programming constantly to improve my skills
+
+---
+
+## 📚 I'm Learning About
+
+- 🏦 I am currently working on an *ATM system project*
+- 🐍 Using *Python* to support its development
+- Good programming practices  
+
+---
+
+## 🎮 Interests
+
+- 💻 Programming
+- 🎮 Video Games
+- ⚽ Soccer
 
 <!--
 **Johns8729/Johns8729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
