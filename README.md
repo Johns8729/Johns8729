@@ -1,11 +1,11 @@
-<h1 align="center">👋 ¡Hola! Soy Oscar Corzo / Hi there! I'm Oscar Corzo</h1>
-<h3 align="center">🚀 Ingeniero de Desarrollo Full Stack | Full Stack Software Engineer</h3>
+<h1 align="center">👋 ¡Hola! Soy John sebastian  / Hi there! I'm John sebastian</h1>
+<h3 align="center">🚀 Desarrollador de sofware| Software Developer</h3>
 
 ---
 
 ## 🧑‍💻 Sobre mí / About Me
 
-Soy <b>Ingeniero de Sistemas</b> con más de <b>4 años de experiencia</b> en desarrollo fullstack y transformación digital.  
+Soy <b>Soy desarrollador de sofware / coder</b> con más de <b>4 años de experiencia</b> en desarrollo fullstack y transformación digital.  
 Me apasiona la <b>automatización, la innovación tecnológica</b> y construir soluciones <b>escalables y de alto rendimiento</b>.  
 <i>"El código debe ser tan elegante como funcional."</i>  
 
